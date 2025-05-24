@@ -8,15 +8,18 @@ Recolectar comentarios de usuarios de un video específico de YouTube para anali
 
 ## 📁 Estructura del Proyecto
 
+```
 econometrics-final-project/
 ├── README.md
 ├── .gitignore
-├── .env # NOT included in GitHub
-├── requirements.txt # or environment.yml
+├── .env # No se incluye en GitHub
+├── requirements.txt 
 ├── code/
 │ └── scrape_comments.py
 └── data/
-└── dataset.csv # Final dataset with comments
+└── dataset.csv # Dataset final con los comentarios
+```
+
 
 ## ⚙️ Instrucciones de Configuración
 
